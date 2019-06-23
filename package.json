@@ -1,0 +1,20 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "body.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminalco/Dexie-synchronous.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosminalco/Dexie-synchronous/issues"
+  },
+  "homepage": "https://github.com/cosminalco/Dexie-synchronous#readme"
+}
